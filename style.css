@@ -1,0 +1,8 @@
+#playground {
+	height: 600px;
+	width: 800px;
+	display: block;
+	border: 1px solid black;
+	margin: 0 auto;
+	background-color: lightblue;
+}
